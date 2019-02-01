@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_message">Namaskar!</string>
+    <string name="check">इसकी जांच करें</string>
+    <string name="widgets">यहाँ मेरे विजेट हैं</string>
+    <string name="but">बटन</string>
+    <string name="Switch">चालू करना / बंद करना</string>
+    <string name="hint">अपना उत्तर यहां लिखें </string>
+
+</resources>
